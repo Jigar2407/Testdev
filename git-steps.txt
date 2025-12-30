@@ -4,6 +4,8 @@ git init // to check git repositrty in folder
 
 git status // to check 
 
+git pull 
+
 git add .
 
 git commit -m "first commit"
