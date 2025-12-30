@@ -1,0 +1,9 @@
+git clone https://github.com/Jigar2407/Testdev.git // 
+
+git init // to check git repositrty in folder
+
+git status // to check 
+
+git add .
+
+git commit -m "first commit"
